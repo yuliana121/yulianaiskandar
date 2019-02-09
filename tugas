@@ -1,0 +1,38 @@
+<?php
+<html>
+<head>
+	<title> yuliana </title>
+</head>
+
+<body bgcolor="black">
+	<table width="50%" align="center" border="3">
+		<tr border color="silver">
+			<td><font color="green"><center> nama </center> </font></td>
+			<td><font color="purple"><center> yuliana</center> </font></td>
+		</tr>
+		<tr border color="silver">
+			<td><font color="green"><center> nim </center> </font></td>
+			<td><font color="purple"><center> 215280040 </center> </font></td>
+		</tr>
+		<tr border color="silver">
+			<td><font color="green"><center> kelas </center> </font></td>
+			<td><font color="purple"><center> informatika A </center> </font></td>
+		</tr>
+		<tr border color="silver">
+			<td><font color="green"><center> jurusan </center> </font></td>
+			<td><font color="purple"><center> TEKNIK INFORMATIKA </center> </font></td>
+		</tr>
+		<tr border color="silver">
+			<td><font color="green"><center> pesan </center> </font></td>
+			<td><font color="purple"><center> perbanyak mengingat ALLAH </center> </font></td>
+		</tr>
+		<tr border color="silver">
+			<td><font color="green"><center> kesan </center> </font></td>
+			<td><font color="purple"><center> selalu ceriah </center> </font></td>
+		</tr>
+	</table>
+
+
+</body>
+</html>
+<?php
